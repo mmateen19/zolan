@@ -2,10 +2,10 @@
 layout: page
 title: About
 permalink: /about/
-image: 01.jpg
+image: 03.png
 ---
 
-Hey, I'm Maryum. I'm quite boring and have nothing to say in this bio. Thank you for your time. Have a nice day. 
+Hey, I'm Maryum.  
 
 ***
 
