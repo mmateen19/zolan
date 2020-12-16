@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: 10.png
+image: 11.png
 ---
 
 Hey! I'm glad you're reading this! This is a personal website I'm creating to learn more about what interests me. If you're here, that means you're at least a little curious to know what that is too. Right now, it's Machine Learning. Tomorrow, it might be something else! 
