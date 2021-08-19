@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Why Has God Forsaken Me With Lactose Intolerance
-date:   2020-11-03 00:58:38 +0300
+date:   2021-08-19 00:58:38 +0300
 image:  02.jpg
 tags:   Life
 ---
