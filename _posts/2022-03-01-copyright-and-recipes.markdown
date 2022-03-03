@@ -10,6 +10,8 @@ tags:   Life
 ## You Can't Steal Recipes, but You Can Be A Bad Person
 
 coming soon...but follow along while I find supporting evidence for this claim!
-https://tinyurl.com/copyrightandrecipesresearch 
+[Copyright and Recipes Research ](https://tinyurl.com/copyrightandrecipesresearch)
+
+
 
 
