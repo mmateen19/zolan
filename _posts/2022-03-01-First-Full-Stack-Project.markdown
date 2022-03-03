@@ -9,4 +9,4 @@ tags:   School
 
 ## I Learned React in A Fever Dream
 
-coming soon...
+coming soon...but track my progress on github!

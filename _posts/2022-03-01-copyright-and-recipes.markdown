@@ -7,8 +7,9 @@ tags:   Life
 ---
 
 
-## You Can't Steal Recipes, but You Can Be An A**hole
+## You Can't Steal Recipes, but You Can Be A Bad Person
 
-coming soon...
+coming soon...but follow along while I find supporting evidence for this claim!
+https://tinyurl.com/copyrightandrecipesresearch 
 
 
