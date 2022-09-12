@@ -13,10 +13,10 @@ I originally began this post to review plant-based milk. However, it's been over
 ## Plant-Based Milk and Why I Dislike Them All (in no particular order)
 
 1. Almond Milk (aka the worst out of them all)
-    - When almond milk is added to coffee, a chemical reaction occurs causing it to alter the flavor and curdle. One of the only ways to prevent this is to use a barista brand of almond milk, which I don't have the energy to find and purchase. I don't want to have to worry what the clumps in my coffee are, and I definitely don't want to pay even more for barista brand because I am genetrically cursed. 
+    - When almond milk is added to coffee, a chemical reaction occurs causing it to alter the flavor and curdle. One of the only ways to prevent this is to use a barista brand of almond milk, which I don't have the energy to find and purchase. I don't want to have to worry about what the clumps in my coffee are, and I definitely don't want to pay even more for the barista blend because I am genetically cursed. 
 2. Coconut Milk (I'm not fruity enough for this)
-    - Okay, I don't like coconut flavors to begin with (unless it's in a pina colada) so it makes sense why I disliked this nut milk. I will say, however, it has the best texture out of them all. 
-3. Cashew Milk (if I wanted water I would have drunk water) 
+    - Okay, I don't like coconut flavors to begin with (unless it's in a pina colada) so it makes sense why I disliked this nut milk. I will say, however, that it has the best texture out of them all. 
+3. Cashew Milk (if I wanted water I would have drank water) 
     - It's discolored water. 
 4. Macadamia Milk (I don't like it. Don't ask me why.) 
     - It's just not good, okay? 
@@ -24,6 +24,8 @@ I originally began this post to review plant-based milk. However, it's been over
     - Like seriously?? Why ruin a perfectly good cup of coffee with this milk? Also, it's not easily accessible. -10 pts. 
 8. Oat Milk
     This is by far my favorite out of all the milk substitutes. Some brands do an awful job with their oat milk (brand name rhymes with ...Janet Boat??), but others like Califia Farms, Oatly, and Chobani do a wonderful job. 
+
+I hope you enjoyed my rant. Don't hate, if you like any of these kinds of milk, you're luckier than me. Thank you for reading.
 
 I hope you enjoyed my rant. Don't hate, if you like any of these milks, you're luckier than me. Thank you for reading. 
 
