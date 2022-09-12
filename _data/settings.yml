@@ -11,7 +11,7 @@ author:
   name: Maryum Mateen
   image: 01.jpg
   say-hello: Hello, I’m <strong>Maryum Mateen</strong>
-  bio: I'm a student at the <strong>University of Houston</strong>. I'm currently pursuing a degree in <strong>Computer Science</strong> with a minor in <strong>Data Science</strong> and <strong>Math</strong>, and I am currently the President of an <strong>ACM-W Chapter</strong> known as Cougarettes!. <a href="#">Resume</a>
+  bio: I'm a student at the <strong>University of Houston</strong>. I'm currently pursuing a degree in <strong>Computer Science</strong> with a minor in <strong>Math</strong>.
 
 
 #-------------------------------
@@ -19,7 +19,7 @@ author:
 twitter: https://twitter.com/MateenMaryum # Add your Twitter handle
 facebook: https://www.facebook.com/people/Maryum-Mateen/100006609678816 # Add your Facebook handle
 #dribbble: https://dribbble.com/ # Add your Dribbble handle
-instagram: https://instagram.com/maryummateen_/ # Add your Instagram handle
+instagram: https://instagram.com/maryum_mateen/ # Add your Instagram handle
 #pinterest: https://pinterest.com/ # Add your Pinterest handle
 linkedin: https://www.linkedin.com/in/maryum-mateen-600313195/ #linkedin handle 
 
@@ -32,7 +32,7 @@ linkedin: https://www.linkedin.com/in/maryum-mateen-600313195/ #linkedin handle
 #-------------------------------
 # Instagram Feed
 instafeed: true # To enable the instafeed, use the value true. To turn off use the value false.
-instagram-profile: maryummateen_ # Add instagram username
+instagram-profile: maryum_mateen # Add instagram username
 
 
 #-------------------------------
