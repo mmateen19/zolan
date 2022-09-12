@@ -27,9 +27,6 @@ I originally began this post to review plant-based milk. However, it's been over
 
 I hope you enjoyed my rant. Don't hate, if you like any of these kinds of milk, you're luckier than me. Thank you for reading.
 
-I hope you enjoyed my rant. Don't hate, if you like any of these milks, you're luckier than me. Thank you for reading. 
-
-
 Update:
 September 10, 2022
 
